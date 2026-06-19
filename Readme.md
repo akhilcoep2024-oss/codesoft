@@ -1,49 +1,139 @@
-# Credit Card Fraud Detection Using Machine Learning
+# CodeSoft AI/ML Internship Projects
 
-## Overview
+Welcome to my CodeSoft AI/ML Internship project repository.
 
-This project aims to detect fraudulent credit card transactions using machine learning techniques.
+This repository contains machine learning projects completed during the CodeSoft Artificial Intelligence and Machine Learning Internship Program. These projects demonstrate practical applications of data analysis, machine learning, data visualization, and model evaluation using Python and Scikit-Learn.
 
-Due to the highly imbalanced nature of fraud detection datasets, special attention was given to evaluation metrics such as Precision, Recall, and F1-Score.
+---
 
-## Dataset
+## Projects
 
-The dataset contains anonymized credit card transactions made by European cardholders.
+### 1. Credit Card Fraud Detection
 
-Target Variable:
+**Objective:** Detect fraudulent credit card transactions using machine learning classification algorithms.
 
-- 0 = Legitimate Transaction
-- 1 = Fraudulent Transaction
+**Skills Demonstrated:**
 
-## Project Workflow
+* Exploratory Data Analysis (EDA)
+* Class Imbalance Handling
+* Classification Models
+* Model Evaluation
+* Fraud Detection
 
-1. Data Exploration
-2. Missing Value Analysis
-3. Class Distribution Analysis
-4. Feature Visualization
-5. Correlation Analysis
-6. Train-Test Split
-7. Logistic Regression
-8. Random Forest Classifier
-9. Model Evaluation
+**Technologies:**
 
-## Technologies Used
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
+* Seaborn
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-Learn
+---
 
-## Results
+### 2. IMDB Movie Rating Prediction
 
-The Random Forest model achieved better performance than Logistic Regression for detecting fraudulent transactions.
+**Objective:** Predict movie ratings using machine learning regression techniques.
 
-## Future Improvements
+**Skills Demonstrated:**
 
-- Hyperparameter Tuning
-- Cross Validation
-- SMOTE
-- XGBoost
-- ROC-AUC Analysis
+* Data Cleaning
+* Feature Engineering
+* Regression Modeling
+* Target Leakage Prevention
+* Model Evaluation
+
+**Technologies:**
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
+* Seaborn
+
+---
+
+### 3. Sales Prediction
+
+**Objective:** Predict product sales based on advertising expenditure across multiple marketing channels.
+
+**Skills Demonstrated:**
+
+* Data Visualization
+* Correlation Analysis
+* Regression Modeling
+* Business Analytics
+
+**Technologies:**
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
+* Seaborn
+
+---
+
+### 4. Titanic Survival Prediction
+
+**Objective:** Predict passenger survival using demographic and travel-related information.
+
+**Skills Demonstrated:**
+
+* Data Preprocessing
+* Classification
+* Feature Analysis
+* Model Evaluation
+
+**Technologies:**
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
+* Seaborn
+
+---
+
+## Skills Gained
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Feature Engineering
+* Classification
+* Regression
+* Machine Learning
+* Model Evaluation
+* Python Programming
+* Pandas & NumPy
+* Scikit-Learn
+
+---
+
+## Repository Structure
+
+```text
+codesoft/
+│
+├── Credit_Card_Fraud_Detection/
+├── IMDB_Rating_Prediction/
+├── Sales_Prediction/
+├── Titanic_Survival_Prediction/
+└── README.md
+```
+
+---
+
+## Author
+
+**Akhil Mali**
+
+Manufacturing  Engineering Student
+
+COEP Technological University
+
+Aspiring AI/ML Engineer | Data Science Enthusiast
